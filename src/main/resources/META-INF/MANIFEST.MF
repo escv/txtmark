@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: txtmark Bundle
+Bundle-SymbolicName: com.github.rjeschke.txtmark
+Bundle-Version: 0.14
+Export-Package: com.github.rjeschke.txtmark;version="0.14"
